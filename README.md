@@ -5,14 +5,17 @@ _Dieses Projekt ist für die Vorlesung Informatik I an der Universität Münster
 
 ## Installation
 ### Ausfühbare Datei
-Unter Microsoft Windows können Sie die Datei [racket_copilot.exe](racket_copilot.exe) herunterladen.  
+Unter Microsoft Windows können Sie die Datei [racket_copilot.exe](racket_copilot.exe) herunterladen.
+
+Öffnen Sie dazu den [Link zur Datei](https://github.com/kiwiNJ/racket_copilot/blob/main/racket_copilot.exe) und klicken Sie dann auf den Downloadbutton (siehe Bild). 
+![Illustration of the download button location](res/download_button_illustration.png)
 
 _Getestet unter Microsoft Windows 10 Home._
 
 ### Python Skript
 Wenn Sie ein anderes Betriebssystem nutzen oder den Code verändern wollen, müssen Sie zunächst einen Python 3 Interpreter installieren, z.B. [von der offizielen Python Webseite](https://www.python.org/downloads/). 
 
-Anschließend können Sie die Datei [racket_copilot.py](racket_copilot.py) herunterladen und mit dem Python Interpreter ausführen. Doppelklicken Sie dazu auf die Datei bzw. öffnen Sie den Ordner mit der heruntergeladenen racket_copilot.py Datei in einer Konsole und führen Sie `py racket_copilot.py` aus.  
+Anschließend können Sie die Datei [racket_copilot.py](racket_copilot.py) herunterladen und mit dem Python Interpreter ausführen. Der Knopf zum Herunterladen befindet sich rechts oben (siehe das Bild oben). Doppelklicken Sie zum Ausführen auf die heruntergeladene Datei bzw. öffnen Sie den Ordner mit der heruntergeladenen racket_copilot.py Datei in einer Konsole und führen Sie `py racket_copilot.py` aus.  
 
 _Getestet mit Python Version 3.10.1 und 3.12.0._ 
 
